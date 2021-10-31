@@ -1,4 +1,4 @@
-/* Calcuate yealy and monthly average rain fall given monthly rain fall counts
+/* Calculate yealy and monthly average rain fall given monthly rain fall counts
  */
 #include <stdio.h>
 

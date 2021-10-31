@@ -1,4 +1,4 @@
-/* Calculate the permeter and area of a rectangle */
+/* Calculate the perimeter and area of a rectangle */
 #include <stdio.h>
 int main(int argc, char *argv[]) {
   double width = 10;
