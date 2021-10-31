@@ -22,7 +22,7 @@ int main() {
   float monthlyaverage = 0;
   float monthlytotal = 0;
 
-  // calculate to rainfall for each year
+  // calculate total rainfall for each year
   for (int year = 0; year < YEARS; year++) {
     float yeartotalrain = 0.0;
     for (int month = 0; month < MONTHS; month++) {
